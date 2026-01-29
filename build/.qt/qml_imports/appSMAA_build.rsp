@@ -1,0 +1,14 @@
+-rootPath
+F:/QtProjects/SMAA
+-cmake-output
+-output-file
+F:/QtProjects/SMAA/build/.qt/qml_imports/appSMAA_build.cmake
+-importPath
+F:/QtProjects/SMAA/build/SMAA
+-importPath
+F:/QtProjects/SMAA/build
+-importPath
+F:/Qt/6.10.1/mingw_64/qml
+-qrcFiles
+F:/QtProjects/SMAA/build/.qt/rcc/qmake_SMAA.qrc
+F:/QtProjects/SMAA/build/.qt/rcc/appSMAA_raw_qml_0.qrc

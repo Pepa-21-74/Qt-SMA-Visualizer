@@ -1,0 +1,6 @@
+module SMAA
+typeinfo appSMAA.qmltypes
+prefer :/qt/qml/SMAA/
+Main 254.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,53 @@
+[
+    {
+        "classes": [
+            {
+                "className": "SMAgenerator",
+                "lineNumber": 8,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "count",
+                                "type": "int"
+                            },
+                            {
+                                "name": "windowsize",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 13,
+                        "name": "processSMA",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 14,
+                        "name": "getRawPoints",
+                        "returnType": "QList<QPointF>"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 15,
+                        "name": "getSmaPoints",
+                        "returnType": "QList<QPointF>"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "SMAgenerator",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "SMAgenerator.h",
+        "outputRevision": 69
+    }
+]

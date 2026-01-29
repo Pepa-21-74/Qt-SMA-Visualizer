@@ -1,0 +1,5 @@
+--resource
+F:/QtProjects/SMAA/build/.qt/rcc/qmake_SMAA.qrc
+--resource
+F:/QtProjects/SMAA/build/.qt/rcc/appSMAA_raw_qml_0.qrc
+/qt/qml/SMAA/Main.qml

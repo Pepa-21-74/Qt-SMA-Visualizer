@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SMAA/">
+    <file alias="Main.qml">F:/QtProjects/SMAA/Main.qml</file>
+  </qresource>
+</RCC>
+

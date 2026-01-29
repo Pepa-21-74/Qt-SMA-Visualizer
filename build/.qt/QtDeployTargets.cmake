@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appSMAA_FILE F:/QtProjects/SMAA/build/appSMAA.exe)
+set(__QT_DEPLOY_TARGET_appSMAA_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appSMAA_RUNTIME_DLLS F:/Qt/6.10.1/mingw_64/bin/Qt6Quick.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6Charts.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6QmlMeta.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6QmlModels.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6QmlWorkerScript.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6Qml.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6Network.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6OpenGLWidgets.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6Widgets.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6OpenGL.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6Gui.dll;F:/Qt/6.10.1/mingw_64/bin/Qt6Core.dll)

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/SMAA">F:/QtProjects/SMAA/build/SMAA</file>
+
+  </qresource>
+</RCC>

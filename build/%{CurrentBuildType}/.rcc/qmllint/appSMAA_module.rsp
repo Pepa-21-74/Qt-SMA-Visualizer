@@ -1,0 +1,10 @@
+-I
+F:/QtProjects/SMAA/build/%{CurrentBuildType}
+-I
+F:/Qt/6.10.1/mingw_64/qml
+--resource
+F:/QtProjects/SMAA/build/%{CurrentBuildType}/.qt/rcc/qmake_SMAA.qrc
+--resource
+F:/QtProjects/SMAA/build/%{CurrentBuildType}/.qt/rcc/appSMAA_raw_qml_0.qrc
+--module
+SMAA
